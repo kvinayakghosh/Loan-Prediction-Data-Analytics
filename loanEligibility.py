@@ -2,7 +2,7 @@ import pandas as pd
 
 
 #Read the dataset from the csv into a Data Frame
-dataFrame = pd.read_csv("C:\\Users\\vinya\\PycharmProjects\\loanEligibility\\datasets\\train.csv") 
+dataFrame = pd.read_csv("C:\\Users\\vinya\\Documents\\GitHub\\Loan-Prediction-Data-Analytics\\datasets\\train.csv") 
 """Exploring the data set
 1. Look at the headings and some sample values of the columns
 2. Check the completeness and basic analysis using describe
